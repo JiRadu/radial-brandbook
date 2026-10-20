@@ -1,0 +1,52 @@
+/* Radial Cons — generat din tokens.json */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&family=Playfair+Display:wght@600;700&display=swap');
+
+:root {
+  --rc-brand-auriu: #F0A038;
+  --rc-brand-bronz: #B8712A;
+  --rc-brand-bronz-inchis: #8A5220;
+  --rc-brand-negru-atelier: #121110;
+  --rc-brand-grafit: #23201D;
+  --rc-brand-otel: #A9AEB3;
+  --rc-brand-crem: #F8F4E8;
+  --rc-brand-alb: #FFFFFF;
+  --rc-surface: #FFFFFF;
+  --rc-surface-alt: #F8F4E8;
+  --rc-ink: #1C1814;
+  --rc-ink-muted: #5E5650;
+  --rc-accent: #8A5220;
+  --rc-accent-grafic: #B8712A;
+  --rc-on-accent: #FFFFFF;
+  --rc-hairline: #E4DCCB;
+  --rc-font-titlu: "Playfair Display", Georgia, "Times New Roman", serif;
+  --rc-font-text: Montserrat, "Helvetica Neue", Arial, sans-serif;
+  --rc-space-1: 4px;
+  --rc-space-2: 8px;
+  --rc-space-3: 16px;
+  --rc-space-4: 24px;
+  --rc-space-5: 40px;
+  --rc-space-6: 64px;
+  --rc-space-7: 96px;
+  --rc-radius-0: 0px;
+  --rc-radius-sm: 2px;
+  --rc-radius-md: 4px;
+}
+
+[data-theme="dark"] {
+  --rc-brand-auriu: #F0A038;
+  --rc-brand-bronz: #B8712A;
+  --rc-brand-bronz-inchis: #8A5220;
+  --rc-brand-negru-atelier: #121110;
+  --rc-brand-grafit: #23201D;
+  --rc-brand-otel: #A9AEB3;
+  --rc-brand-crem: #F8F4E8;
+  --rc-brand-alb: #FFFFFF;
+  --rc-surface: #121110;
+  --rc-surface-alt: #23201D;
+  --rc-ink: #F5F1EA;
+  --rc-ink-muted: #A9AEB3;
+  --rc-accent: #F0A038;
+  --rc-accent-grafic: #F0A038;
+  --rc-on-accent: #121110;
+  --rc-hairline: #3A3530;
+}

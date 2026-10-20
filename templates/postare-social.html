@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="ro" data-theme="light"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Radial Cons — PostareSocial</title>
+<link rel="stylesheet" href="../tokens.css">
+<style>:root{--brand-auriu:var(--rc-brand-auriu);--brand-bronz:var(--rc-brand-bronz);--brand-bronz-inchis:var(--rc-brand-bronz-inchis);--brand-negru-atelier:var(--rc-brand-negru-atelier);--brand-grafit:var(--rc-brand-grafit);--brand-otel:var(--rc-brand-otel);--brand-crem:var(--rc-brand-crem);--brand-alb:var(--rc-brand-alb);--surface:var(--rc-surface);--surface-alt:var(--rc-surface-alt);--ink:var(--rc-ink);--ink-muted:var(--rc-ink-muted);--accent:var(--rc-accent);--accent-grafic:var(--rc-accent-grafic);--on-accent:var(--rc-on-accent);--hairline:var(--rc-hairline);}}</style>
+</head><body>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Playfair+Display:wght@700&display=swap">
+<style>
+  body{margin:0;padding:20px;background:var(--surface);display:flex;gap:20px;flex-wrap:wrap}
+  .post{position:relative;width:360px;height:450px;overflow:hidden;background:var(--brand-negru-atelier);font-family:Montserrat,Arial,sans-serif;flex:none}
+  .photo{position:absolute;inset:0;background:
+     radial-gradient(ellipse 70% 45% at 60% 78%, #6b6560 0%, #34302c 38%, rgba(18,17,16,0) 75%),
+     linear-gradient(180deg, var(--brand-negru-atelier) 0%, var(--brand-grafit) 100%)}
+  .piece{position:absolute;left:150px;top:250px;width:120px;height:150px}
+  .logo{position:absolute;left:21px;top:20px;width:88px}
+  .nr{position:absolute;right:21px;top:24px;font:600 8px/1 Montserrat,sans-serif;letter-spacing:.18em;color:var(--brand-otel)}
+  .txt{position:absolute;left:21px;right:40px;top:74px}
+  h1{margin:0;font:700 23px/1.08 "Playfair Display",Georgia,serif;color:var(--brand-alb)}
+  .rule{width:19px;height:2px;background:var(--brand-auriu);margin:10px 0 9px}
+  p{margin:0;font:400 9.5px/1.35 Montserrat,sans-serif;color:var(--brand-otel)}
+  .bar{position:absolute;left:0;right:0;bottom:0;height:30px;background:var(--brand-grafit);display:flex;align-items:center;justify-content:space-around;font:400 7px Montserrat,sans-serif;color:var(--brand-otel)}
+  .bar b{color:var(--brand-auriu);font-weight:600;margin-right:4px}
+</style>
+<div class="post" aria-label="Exemplu de postare">
+  <div class="photo"></div>
+  <svg class="piece" viewBox="0 0 120 150" aria-hidden="true">
+    <ellipse cx="60" cy="22" rx="40" ry="9" fill="#3a3632"/>
+    <ellipse cx="60" cy="18" rx="40" ry="9" fill="#d8dcdf"/>
+    <rect x="53" y="26" width="14" height="96" fill="#8f949a"/>
+    <rect x="57" y="26" width="4" height="96" fill="#f1f3f5"/>
+    <ellipse cx="60" cy="128" rx="34" ry="8" fill="#5b5752"/>
+    <ellipse cx="60" cy="124" rx="34" ry="8" fill="#c3c7cb"/>
+  </svg>
+  <img class="logo" src="../logo/radialcons-logo-orizontal-alb.svg" alt="Radial Cons">
+  <div class="nr">01/05</div>
+  <div class="txt">
+    <h1>Luciu oglindă.<br>Impact pe măsură.</h1>
+    <div class="rule"></div>
+    <p>Ai un proiect aparte?<br>Hai să-i dăm formă.</p>
+  </div>
+  <div class="bar"><span><b>T</b>0744 704 446</span><span><b>@</b>radialcons@gmail.com</span><span><b>›</b>Târgoviște</span></div>
+</div>
+<div class="post" aria-label="Exemplu de ultim cadru Reel">
+  <div class="photo" style="background:var(--brand-negru-atelier)"></div>
+  <img src="../logo/radialcons-simbol-color.svg" alt="Simbol Radial Cons" style="position:absolute;left:110px;top:120px;width:140px">
+  <div style="position:absolute;left:0;right:0;top:282px;text-align:center">
+    <div style="font:700 20px/1.1 'Playfair Display',Georgia,serif;color:var(--brand-alb)">Atelier mic.<br>Precizie de oțel.</div>
+    <div style="width:19px;height:2px;background:var(--brand-auriu);margin:10px auto"></div>
+    <div style="font:600 10px Montserrat,sans-serif;letter-spacing:.12em;color:var(--brand-otel)">0744 704 446</div>
+  </div>
+</div>
+
+</body></html>
