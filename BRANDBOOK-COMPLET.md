@@ -21,7 +21,7 @@ Ghidul de identitate al Radial Cons SRL, scris ca să fie folosit direct de un a
 - **Culori:** Negru Atelier `#121110`, Auriu Radial `#F0A038`, Bronz `#B8712A`, Bronz închis `#8A5220` (text auriu pe alb), Oțel `#A9AEB3`, Crem `#F8F4E8`, Alb `#FFFFFF`.
 - **Fonturi:** titluri **Playfair Display** (Bold 700); text **Montserrat** (Regular 400, SemiBold 600). Ambele gratuite, Google Fonts.
 - **Logo:** se folosește doar din fișierele grupului **Logo** (nu se redesenează, nu se rescrie cu font).
-- **Slogan:** „Atelier mic. Precizie de oțel." · încheiere: „Hai să construim ceva solid."
+- **Slogan:** „Construit în jurul ideii tale." · încheiere: „Hai să construim ceva solid."
 - **Contact oficial:** 0744 704 446 · radialcons@gmail.com · radialcons.ro · Calea Câmpulung nr. 121, Târgoviște, Dâmbovița.
 - **Limba:** română cu diacritice corecte (ș, ț cu virgulă dedesubt, nu ş/ţ cu sedilă).
 
@@ -76,10 +76,10 @@ Preluat din cadrul final al prezentării video (motion graphics):
 
 | | Română | Engleză (clienți străini) |
 | --- | --- | --- |
-| **Slogan** — stă lângă logo | „Atelier mic. Precizie de oțel." | „Small workshop. Serious steel." |
+| **Slogan** — stă lângă logo | „Construit în jurul ideii tale." | „Built around your idea." |
 | **Încheiere / îndemn** — ultima frază | „Hai să construim ceva solid." | „Let's build it in metal." |
 
-- **Sloganul** apare sub logo pe coperți, în semnătura de email, pe pagina principală a site-ului și pe ultimul cadru din clipuri. Se scrie exact așa, cu cele două puncte. Când se evidențiază, „Precizie de oțel." primește culoarea accent.
+- **Sloganul** apare sub logo pe coperți, în semnătura de email, pe pagina principală a site-ului și pe ultimul cadru din clipuri. Se scrie exact așa, cu punct la final. Când se evidențiază, „ideii tale." primește culoarea accent. Sensul: ca razele logo-ului care pornesc din „R", fiecare piesă e construită în jurul ideii clientului.
 - **Îndemnul** închide clipurile, prezentările și secțiunea de contact de pe site.
 - Titluri de campanie din video, folosibile pe postări: „Tu desenezi. Noi executăm." · „Mobilier și vetre de foc făcute să dureze." · „Precizie la fiecare tăiere, sudură și îndoire."
 
@@ -256,7 +256,7 @@ Exemplu:
 
 - Primele 2 secunde: piesa finită sau scânteia de la sudură — fără intro cu logo.
 - Text pe ecran: Montserrat SemiBold, alb, cu bandă neagră 60% dacă fundalul e agitat; max. 6 cuvinte pe cadru.
-- Ultimul cadru (2 s): fundal Negru Atelier, simbolul color centrat, sub el „Atelier mic. Precizie de oțel.", apoi „Hai să construim ceva solid." și 0744 704 446.
+- Ultimul cadru (2 s): fundal Negru Atelier, simbolul color centrat, sub el „Construit în jurul ideii tale.", apoi „Hai să construim ceva solid." și 0744 704 446.
 - Sunet: zgomotul real al atelierului sau muzică instrumentală calmă; fără voce generată de AI.
 
 ### Poza de profil
@@ -310,7 +310,7 @@ Două situații: **(A)** un client ne cere o ofertă și noi trimitem oferta; **
 > Cu stimă,
 > [Nume] · Radial Cons
 > 0744 704 446 · radialcons@gmail.com · radialcons.ro
-> *Atelier mic. Precizie de oțel.*
+> *Construit în jurul ideii tale.*
 
 ### B. Cererea de ofertă (ce întrebăm clientul)
 
@@ -341,7 +341,7 @@ Site-ul trebuie să facă două lucruri: să arate lucrările ca într-o galerie
 
 | Pagină | Conținut |
 | --- | --- |
-| **Acasă** | Hero pe fundal Negru Atelier cu o fotografie mare a unei piese, titlu „Atelier mic. Precizie de oțel.", subtext de un rând, buton „Cere o ofertă". Apoi: ce facem (3–4 categorii), lucrări alese, procesul în 4 pași, de ce noi, contact. |
+| **Acasă** | Hero pe fundal Negru Atelier cu o fotografie mare a unei piese, titlu „Construit în jurul ideii tale.", subtext de un rând, buton „Cere o ofertă". Apoi: ce facem (3–4 categorii), lucrări alese, procesul în 4 pași, de ce noi, contact. |
 | **Lucrări / Portofoliu** | Grilă de proiecte filtrabilă după cele 4 linii: Mobilier și vetre de foc · Structuri metalice (hale, fotovoltaic) · Producție la comandă · plus Fier forjat. Fiecare proiect: 3–8 poze, 2–3 rânduri (ce, material, finisaj, unde). |
 | **Servicii** | O secțiune per linie, în ordinea din video: Mobilier și vetre de foc → Structuri metalice → Producție la comandă (cu încărcare de fișiere DXF/STEP) → Tehnologie (laser, sudură laser, plasmă, îndoire CNC). |
 | **Despre noi** | Din 1999, atelierul din Târgoviște, echipa, procesul, echipamente `[DE COMPLETAT]`. |
@@ -410,7 +410,7 @@ DESPRE FIRMĂ
 - Proces: Proiectare → Execuție metalică → Finisaj → Livrare și montaj, totul în atelierul propriu.
 - Argumente: din 1999; atelier propriu; tot procesul într-un loc; tehnologie laser și CNC; finisaje premium (luciu oglindă, periat, vopsit); oțel carbon, inox, aluminiu, corten; unicate și serii mici.
 - Contact: 0744 704 446 · radialcons@gmail.com · radialcons.ro · Calea Câmpulung nr. 121, Târgoviște, jud. Dâmbovița. CUI RO11380762, J15/7/1999. Telefon fix 0245 221 024.
-- Slogan: „Atelier mic. Precizie de oțel." (EN: „Small workshop. Serious steel."). Încheiere / îndemn: „Hai să construim ceva solid." (EN: „Let's build it in metal."). Alternative de campanie: „Tu desenezi. Noi executăm." / „Din viziune, în realitate."
+- Slogan: „Construit în jurul ideii tale." (EN: „Built around your idea."). Încheiere / îndemn: „Hai să construim ceva solid." (EN: „Let's build it in metal."). Alternative de campanie: „Tu desenezi. Noi executăm." / „Din viziune, în realitate."
 
 VOCE
 - Precis, calm, sigur pe meserie, cald. Propoziții scurte și concrete. Fără superlative goale, fără semne de exclamare, fără urgență falsă.
@@ -439,7 +439,7 @@ OFERTE (A4, PDF, fundal alb)
 - Prețuri: 12.450,00 lei, cu „+ TVA" sau „TVA inclus".
 
 WEBSITE
-- Hero pe Negru Atelier cu fotografie mare, titlu „Atelier mic. Precizie de oțel.", buton „CERE O OFERTĂ" (auriu cu text negru). Restul paginilor albe cu benzi crem. Container 1200 px. H1 Playfair 56/36 px, text Montserrat 17/16 px. Buton pe alb: bronz închis cu text alb, colțuri 2 px.
+- Hero pe Negru Atelier cu fotografie mare, titlu „Construit în jurul ideii tale.", buton „CERE O OFERTĂ" (auriu cu text negru). Restul paginilor albe cu benzi crem. Container 1200 px. H1 Playfair 56/36 px, text Montserrat 17/16 px. Buton pe alb: bronz închis cu text alb, colțuri 2 px.
 
 Când primești o cerere, livrează rezultatul gata de folosit (text final, nu variante explicate), apoi enumeră pe scurt ce câmpuri [DE COMPLETAT] au rămas.
 ```

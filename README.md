@@ -2,7 +2,7 @@
 
 Identitatea vizuală și de comunicare a **Radial Cons SRL** (atelier de confecții metalice, Târgoviște, din 1999), pentru oferte, website și postări Instagram / TikTok / Facebook.
 
-> **Atelier mic. Precizie de oțel.** — *Hai să construim ceva solid.*
+> **Construit în jurul ideii tale.** — *Hai să construim ceva solid.*
 
 ## Pentru AI (ChatGPT, Claude, Gemini)
 

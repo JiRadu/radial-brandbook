@@ -64,7 +64,7 @@ Exemplu:
 
 - Primele 2 secunde: piesa finită sau scânteia de la sudură — fără intro cu logo.
 - Text pe ecran: Montserrat SemiBold, alb, cu bandă neagră 60% dacă fundalul e agitat; max. 6 cuvinte pe cadru.
-- Ultimul cadru (2 s): fundal Negru Atelier, simbolul color centrat, sub el „Atelier mic. Precizie de oțel.", apoi „Hai să construim ceva solid." și 0744 704 446.
+- Ultimul cadru (2 s): fundal Negru Atelier, simbolul color centrat, sub el „Construit în jurul ideii tale.", apoi „Hai să construim ceva solid." și 0744 704 446.
 - Sunet: zgomotul real al atelierului sau muzică instrumentală calmă; fără voce generată de AI.
 
 ## Poza de profil

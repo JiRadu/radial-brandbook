@@ -6,7 +6,7 @@ Site-ul trebuie să facă două lucruri: să arate lucrările ca într-o galerie
 
 | Pagină | Conținut |
 | --- | --- |
-| **Acasă** | Hero pe fundal Negru Atelier cu o fotografie mare a unei piese, titlu „Atelier mic. Precizie de oțel.", subtext de un rând, buton „Cere o ofertă". Apoi: ce facem (3–4 categorii), lucrări alese, procesul în 4 pași, de ce noi, contact. |
+| **Acasă** | Hero pe fundal Negru Atelier cu o fotografie mare a unei piese, titlu „Construit în jurul ideii tale.", subtext de un rând, buton „Cere o ofertă". Apoi: ce facem (3–4 categorii), lucrări alese, procesul în 4 pași, de ce noi, contact. |
 | **Lucrări / Portofoliu** | Grilă de proiecte filtrabilă după cele 4 linii: Mobilier și vetre de foc · Structuri metalice (hale, fotovoltaic) · Producție la comandă · plus Fier forjat. Fiecare proiect: 3–8 poze, 2–3 rânduri (ce, material, finisaj, unde). |
 | **Servicii** | O secțiune per linie, în ordinea din video: Mobilier și vetre de foc → Structuri metalice → Producție la comandă (cu încărcare de fișiere DXF/STEP) → Tehnologie (laser, sudură laser, plasmă, îndoire CNC). |
 | **Despre noi** | Din 1999, atelierul din Târgoviște, echipa, procesul, echipamente `[DE COMPLETAT]`. |

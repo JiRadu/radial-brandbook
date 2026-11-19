@@ -15,7 +15,7 @@ Ghidul de identitate al Radial Cons SRL, scris ca să fie folosit direct de un a
 - **Culori:** Negru Atelier `#121110`, Auriu Radial `#F0A038`, Bronz `#B8712A`, Bronz închis `#8A5220` (text auriu pe alb), Oțel `#A9AEB3`, Crem `#F8F4E8`, Alb `#FFFFFF`.
 - **Fonturi:** titluri **Playfair Display** (Bold 700); text **Montserrat** (Regular 400, SemiBold 600). Ambele gratuite, Google Fonts.
 - **Logo:** se folosește doar din fișierele grupului **Logo** (nu se redesenează, nu se rescrie cu font).
-- **Slogan:** „Atelier mic. Precizie de oțel." · încheiere: „Hai să construim ceva solid."
+- **Slogan:** „Construit în jurul ideii tale." · încheiere: „Hai să construim ceva solid."
 - **Contact oficial:** 0744 704 446 · radialcons@gmail.com · radialcons.ro · Calea Câmpulung nr. 121, Târgoviște, Dâmbovița.
 - **Limba:** română cu diacritice corecte (ș, ț cu virgulă dedesubt, nu ş/ţ cu sedilă).
 
@@ -70,10 +70,10 @@ Preluat din cadrul final al prezentării video (motion graphics):
 
 | | Română | Engleză (clienți străini) |
 | --- | --- | --- |
-| **Slogan** — stă lângă logo | „Atelier mic. Precizie de oțel." | „Small workshop. Serious steel." |
+| **Slogan** — stă lângă logo | „Construit în jurul ideii tale." | „Built around your idea." |
 | **Încheiere / îndemn** — ultima frază | „Hai să construim ceva solid." | „Let's build it in metal." |
 
-- **Sloganul** apare sub logo pe coperți, în semnătura de email, pe pagina principală a site-ului și pe ultimul cadru din clipuri. Se scrie exact așa, cu cele două puncte. Când se evidențiază, „Precizie de oțel." primește culoarea accent.
+- **Sloganul** apare sub logo pe coperți, în semnătura de email, pe pagina principală a site-ului și pe ultimul cadru din clipuri. Se scrie exact așa, cu punct la final. Când se evidențiază, „ideii tale." primește culoarea accent. Sensul: ca razele logo-ului care pornesc din „R", fiecare piesă e construită în jurul ideii clientului.
 - **Îndemnul** închide clipurile, prezentările și secțiunea de contact de pe site.
 - Titluri de campanie din video, folosibile pe postări: „Tu desenezi. Noi executăm." · „Mobilier și vetre de foc făcute să dureze." · „Precizie la fiecare tăiere, sudură și îndoire."
 

@@ -43,7 +43,7 @@ Două situații: **(A)** un client ne cere o ofertă și noi trimitem oferta; **
 > Cu stimă,
 > [Nume] · Radial Cons
 > 0744 704 446 · radialcons@gmail.com · radialcons.ro
-> *Atelier mic. Precizie de oțel.*
+> *Construit în jurul ideii tale.*
 
 ## B. Cererea de ofertă (ce întrebăm clientul)
 
