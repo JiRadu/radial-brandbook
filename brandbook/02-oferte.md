@@ -18,7 +18,7 @@ Două situații: **(A)** un client ne cere o ofertă și noi trimitem oferta; **
 8. **Termene și condiții** — termen de execuție, plată (avans/rest), livrare și montaj, garanție, valabilitate. Text 9 pt.
 9. **Procesul nostru** (opțional, 4 pași numerotați 01–04): Proiectare → Execuție metalică → Finisaj → Livrare și montaj.
 10. **Semnătura** — nume, funcție, telefon, email.
-11. **Subsol** (8 pt, Text secundar): RADIAL CONS SRL · CUI RO11380762 · J15/7/1999 · Calea Câmpulung nr. 121, Târgoviște · 0744 704 446 · radialcons@gmail.com · radialcons.ro
+11. **Subsol** (8 pt, Text secundar): RADIAL CONS SRL · CUI RO11380762 · J1999000007155 · Calea Câmpulung nr. 121, Târgoviște · 0744 704 446 · radialcons@gmail.com · radialcons.ro
 
 ### Reguli
 

@@ -15,7 +15,7 @@ DESPRE FIRMĂ
   Secundar: fier forjat (porți, garduri, balustrade).
 - Proces: Proiectare → Execuție metalică → Finisaj → Livrare și montaj, totul în atelierul propriu.
 - Argumente: din 1999; atelier propriu; tot procesul într-un loc; tehnologie laser și CNC; finisaje premium (luciu oglindă, periat, vopsit); oțel carbon, inox, aluminiu, corten; unicate și serii mici.
-- Contact: 0744 704 446 · radialcons@gmail.com · radialcons.ro · Calea Câmpulung nr. 121, Târgoviște, jud. Dâmbovița. CUI RO11380762, J15/7/1999. Telefon fix 0245 221 024.
+- Contact: 0744 704 446 · radialcons@gmail.com · radialcons.ro · Calea Câmpulung nr. 121, Târgoviște, jud. Dâmbovița. CUI RO11380762, J1999000007155. Telefon fix 0245 221 024.
 - Slogan: „Construit în jurul ideii tale." (EN: „Built around your idea."). Încheiere / îndemn: „Hai să construim ceva solid." (EN: „Let's build it in metal."). Alternative de campanie: „Tu desenezi. Noi executăm." / „Din viziune, în realitate."
 
 VOCE

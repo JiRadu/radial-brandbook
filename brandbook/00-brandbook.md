@@ -29,7 +29,7 @@ Ghidul de identitate al Radial Cons SRL, scris ca să fie folosit direct de un a
 | Înființată | 1999 |
 | Sediu / atelier | Calea Câmpulung nr. 121, 130098 Târgoviște, jud. Dâmbovița |
 | CUI | RO11380762 |
-| Nr. Reg. Com. | J15/7/1999 (EUID ROONRC.J1999000007155) |
+| Nr. Reg. Com. | J1999000007155 (EUID ROONRC.J1999000007155) |
 | Telefon mobil | 0744 704 446 (internațional: +40 744 704 446) |
 | Telefon fix | 0245 221 024 |
 | Email | radialcons@gmail.com |

@@ -35,7 +35,7 @@ Ghidul de identitate al Radial Cons SRL, scris ca să fie folosit direct de un a
 | Înființată | 1999 |
 | Sediu / atelier | Calea Câmpulung nr. 121, 130098 Târgoviște, jud. Dâmbovița |
 | CUI | RO11380762 |
-| Nr. Reg. Com. | J15/7/1999 (EUID ROONRC.J1999000007155) |
+| Nr. Reg. Com. | J1999000007155 (EUID ROONRC.J1999000007155) |
 | Telefon mobil | 0744 704 446 (internațional: +40 744 704 446) |
 | Telefon fix | 0245 221 024 |
 | Email | radialcons@gmail.com |
@@ -285,7 +285,7 @@ Două situații: **(A)** un client ne cere o ofertă și noi trimitem oferta; **
 8. **Termene și condiții** — termen de execuție, plată (avans/rest), livrare și montaj, garanție, valabilitate. Text 9 pt.
 9. **Procesul nostru** (opțional, 4 pași numerotați 01–04): Proiectare → Execuție metalică → Finisaj → Livrare și montaj.
 10. **Semnătura** — nume, funcție, telefon, email.
-11. **Subsol** (8 pt, Text secundar): RADIAL CONS SRL · CUI RO11380762 · J15/7/1999 · Calea Câmpulung nr. 121, Târgoviște · 0744 704 446 · radialcons@gmail.com · radialcons.ro
+11. **Subsol** (8 pt, Text secundar): RADIAL CONS SRL · CUI RO11380762 · J1999000007155 · Calea Câmpulung nr. 121, Târgoviște · 0744 704 446 · radialcons@gmail.com · radialcons.ro
 
 ### Reguli
 
@@ -409,7 +409,7 @@ DESPRE FIRMĂ
   Secundar: fier forjat (porți, garduri, balustrade).
 - Proces: Proiectare → Execuție metalică → Finisaj → Livrare și montaj, totul în atelierul propriu.
 - Argumente: din 1999; atelier propriu; tot procesul într-un loc; tehnologie laser și CNC; finisaje premium (luciu oglindă, periat, vopsit); oțel carbon, inox, aluminiu, corten; unicate și serii mici.
-- Contact: 0744 704 446 · radialcons@gmail.com · radialcons.ro · Calea Câmpulung nr. 121, Târgoviște, jud. Dâmbovița. CUI RO11380762, J15/7/1999. Telefon fix 0245 221 024.
+- Contact: 0744 704 446 · radialcons@gmail.com · radialcons.ro · Calea Câmpulung nr. 121, Târgoviște, jud. Dâmbovița. CUI RO11380762, J1999000007155. Telefon fix 0245 221 024.
 - Slogan: „Construit în jurul ideii tale." (EN: „Built around your idea."). Încheiere / îndemn: „Hai să construim ceva solid." (EN: „Let's build it in metal."). Alternative de campanie: „Tu desenezi. Noi executăm." / „Din viziune, în realitate."
 
 VOCE
